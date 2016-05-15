@@ -1,5 +1,5 @@
 # DynamicStyles
-This demonstrats the use of dynamic styles in React Native
+This demonstrats the use of dynamic styles in React Native (Android example)
 
 ## Dependencies
 Here I am using [MomentJs](http://momentjs.com/), to display the days. To install the MomentJs as library use following command
